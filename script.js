@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Data Projects
   const projects = [
     {
-      foto: "assets/img/ipdc.png",
+      foto: "assets/img/ss_laundry.png",
       project_name: "Laundry Management Web App",
       project_desc:
         "A web application built using HTML, CSS, Bootstrap, and JavaScript for managing laundry operations efficiently. The system allows users to manage customers, process laundry transactions, view transaction reports with filter functionality, and print receipts.",
@@ -87,7 +87,6 @@ document.addEventListener("DOMContentLoaded", () => {
     "CSS",
     "JavaScript",
     "PHP",
-    "React.js",
     "Laravel",
     "SQL",
     "GitHub",
